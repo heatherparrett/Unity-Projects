@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Copy_UFO_Tutorial.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
